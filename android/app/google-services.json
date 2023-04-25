@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273779936240",
+    "project_id": "vihaan-2b504",
+    "storage_bucket": "vihaan-2b504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273779936240:android:5908037232678ba3eeeb35",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_33"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273779936240-d908m71m5sjij19j2fnggh3nnb0e5ktg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67kGJUgezO_lQQGUIVMYIIc7CsJXhs3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273779936240-d908m71m5sjij19j2fnggh3nnb0e5ktg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
